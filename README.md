@@ -15,7 +15,7 @@
 - `ACR_REGISTRY`: 阿里云 ACR 注册表地址（例如：`your-registry-id.cn-hangzhou.aliyuncs.com`）
 - `ACR_REPO`: 阿里云ACR仓库名称
 
-## 工作流
+## 工作流 test
 
 GitHub Actions 工作流定义文件位于 `.github/workflows/sync-images.yml`。工作流的主要步骤如下：
 
